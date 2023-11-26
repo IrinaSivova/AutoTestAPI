@@ -1,0 +1,22 @@
+2023-26-11 14:52:06  INFO [apiTest.CreatePostByAPITest] : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTYzNGJhNDE1Zjg2NjAwMzNkMmZmZjciLCJpYXQiOjE3MDEwMDY3MjYsImV4cCI6MTcwMTAwODUyNn0.tI-VGYx5ygXQjGLfGJFEZoAwvCwTo_15qCOkGGyNm7o
+2023-26-11 14:53:00  INFO [apiTest.ApiTest] : Number of posts = 2
+2023-26-11 14:53:00  INFO [apiTest.ApiTest] : Tile post1 = test2
+2023-26-11 14:53:00  INFO [apiTest.ApiTest] : Username of post1 = autoapi
+2023-26-11 18:25:55  INFO [apiTest.ApiTest] : Number of posts = 2
+2023-26-11 18:25:55  INFO [apiTest.ApiTest] : Tile post1 = test2
+2023-26-11 18:25:55  INFO [apiTest.ApiTest] : Username of post1 = autoapi
+2023-26-11 18:34:29  INFO [apiTest.ApiTest] : Number of posts = 2
+2023-26-11 18:34:29  INFO [apiTest.ApiTest] : Tile post1 = test2
+2023-26-11 18:34:29  INFO [apiTest.ApiTest] : Username of post1 = autoapi
+2023-26-11 18:36:22  INFO [apiTest.ApiTest] : Number of posts = 2
+2023-26-11 18:36:22  INFO [apiTest.ApiTest] : Tile post1 = test2
+2023-26-11 18:36:22  INFO [apiTest.ApiTest] : Username of post1 = autoapi
+2023-26-11 18:36:24  INFO [api.APIHelper] : Post with id 65634d8715f8660033d2fff8 and title New post from API was deleted
+2023-26-11 18:36:26  INFO [apiTest.CreatePostByAPITest] : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTYzNGJhNDE1Zjg2NjAwMzNkMmZmZjciLCJpYXQiOjE3MDEwMjAxODYsImV4cCI6MTcwMTAyMTk4Nn0.nbTEV160PsBF5m8i_-bJyHSaDVhoPMYbwiRhdBFYTYg
+2023-26-11 18:37:58  INFO [api.APIHelper] : Post with id 6563821a15f8660033d2fff9 and title New post from API was deleted
+2023-26-11 18:37:59  INFO [apiTest.CreatePostByAPITest] : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTYzNGJhNDE1Zjg2NjAwMzNkMmZmZjciLCJpYXQiOjE3MDEwMjAyNzksImV4cCI6MTcwMTAyMjA3OX0.ngDpxRxklYuLFeFhVPDBSYb6mpsjrP9ZxCjxGk8Ox0U
+2023-26-11 18:45:37  INFO [apiTest.ApiTest] : Number of posts = 2
+2023-26-11 18:45:37  INFO [apiTest.ApiTest] : Tile post1 = test2
+2023-26-11 18:45:37  INFO [apiTest.ApiTest] : Username of post1 = autoapi
+2023-26-11 18:45:39  INFO [api.APIHelper] : Post with id 6563827815f8660033d2fffa and title New post from API was deleted
+2023-26-11 18:45:40  INFO [apiTest.CreatePostByAPITest] : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTYzNGJhNDE1Zjg2NjAwMzNkMmZmZjciLCJpYXQiOjE3MDEwMjA3NDAsImV4cCI6MTcwMTAyMjU0MH0.RpF09SBHo6--dRH-gwtx7oAny0RB4MN7RRTGescicRE
